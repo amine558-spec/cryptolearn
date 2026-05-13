@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "password": "$2b$12$2UrF.mdArxaRNeIsKUJtfeuMxqkAwAtoe3TeUOCRasAuMx0Q2pFpK",
+        "role": "admin"
+    },
+    "ahmed": {
+        "password": "$2b$12$.b.HOSQsEIzfj8suVS8YSet50UNDqZ9Df4plmx4qFaURHytyTrLyK",
+        "role": "user"
+    },
+    "makarov": {
+        "password": "$2b$12$dL3rsgjak1nc69nMosHSiOnAzoawLdpILLeXqF4gkLPYjQLaiEAiG",
+        "role": "user"
+    }
+}
