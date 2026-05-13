@@ -1,0 +1,29 @@
+{
+  "name": "LoginLog",
+  "type": "object",
+  "properties": {
+    "user_email": {
+      "type": "string",
+      "title": "Email"
+    },
+    "user_name": {
+      "type": "string",
+      "title": "Nom"
+    },
+    "user_role": {
+      "type": "string",
+      "title": "R\u00f4le"
+    },
+    "ip_hint": {
+      "type": "string",
+      "title": "Session ID"
+    },
+    "user_agent": {
+      "type": "string",
+      "title": "Navigateur"
+    }
+  },
+  "required": [
+    "user_email"
+  ]
+}
